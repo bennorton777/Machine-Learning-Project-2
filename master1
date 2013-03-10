@@ -1,0 +1,70 @@
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+java -cp ./ABAGAIL.jar:. Drive2 10 >> data10.txt
+
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+java -cp ./ABAGAIL.jar:. Drive2 100 >> data100.txt
+
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+java -cp ./ABAGAIL.jar:. Drive2 200 >> data200.txt
+
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+java -cp ./ABAGAIL.jar:. Drive2 500 >> data500.txt
+
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+java -cp ./ABAGAIL.jar:. Drive2 1000 >> data1000.txt
+
+
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive2 2000 >> data2000.txt
+
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive2 5000 >> data5000.txt

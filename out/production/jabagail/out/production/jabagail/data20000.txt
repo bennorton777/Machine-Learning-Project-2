@@ -1,0 +1,33 @@
+Running with parameters:
+20000
+
+Error results for RHC
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Results for RHC: with iterations 20000 
+Correctly classified 760.0 instances.
+Incorrectly classified 240.0 instances.
+Percent correctly classified: 76.000%
+Training time: 189.702 seconds
+Testing time: 0.006 seconds
+
+Results for SA: with iterations 20000 
+Correctly classified 764.0 instances.
+Incorrectly classified 236.0 instances.
+Percent correctly classified: 76.400%
+Training time: 165.381 seconds
+Testing time: 0.006 seconds
+
+Results for GA: with iterations 20000 
+Correctly classified 699.0 instances.
+Incorrectly classified 301.0 instances.
+Percent correctly classified: 69.900%
+Training time: 4697.602 seconds
+Testing time: 0.007 seconds
+

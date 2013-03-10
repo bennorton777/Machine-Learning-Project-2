@@ -1,0 +1,3 @@
+ant jar
+javac -cp ./ABAGAIL.jar:. Drive.java
+javac -cp ./ABAGAIL.jar:. Drive2.java

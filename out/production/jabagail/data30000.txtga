@@ -1,0 +1,12 @@
+Running with parameters:
+30000
+
+
+
+
+Correctly classified 700.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 70.000%
+Training time: 6714.575 seconds
+Testing time: 0.009 seconds
+

@@ -1,0 +1,21 @@
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+java -cp ./ABAGAIL.jar:. Drive 2000 >> data2000.txt
+
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+java -cp ./ABAGAIL.jar:. Drive 5000 >> data5000.txt
+
+

@@ -1,0 +1,312 @@
+Running with parameters:
+500
+
+Error results for RHC
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 698.0 instances.
+Incorrectly classified 302.0 instances.
+Percent correctly classified: 69.800%
+Training time: 5.719 seconds
+Testing time: 0.010 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 401.0 instances.
+Incorrectly classified 599.0 instances.
+Percent correctly classified: 40.100%
+Training time: 4.901 seconds
+Testing time: 0.011 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 697.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 69.700%
+Training time: 151.137 seconds
+Testing time: 0.010 seconds
+
+
+Error results for RHC
+---------------------------
+
+Error results for RHC
+---------------------------
+
+Error results for RHC
+---------------------------
+
+Error results for RHC
+---------------------------
+
+Error results for RHC
+---------------------------
+
+Error results for RHC
+---------------------------
+
+Error results for RHC
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for SA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 699.0 instances.
+Incorrectly classified 301.0 instances.
+Percent correctly classified: 69.900%
+Training time: 5.972 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 344.0 instances.
+Incorrectly classified 656.0 instances.
+Percent correctly classified: 34.400%
+Training time: 4.928 seconds
+Testing time: 0.011 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 701.0 instances.
+Incorrectly classified 299.0 instances.
+Percent correctly classified: 70.100%
+Training time: 152.683 seconds
+Testing time: 0.010 seconds
+
+
+Error results for RHC
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 698.0 instances.
+Incorrectly classified 302.0 instances.
+Percent correctly classified: 69.800%
+Training time: 5.836 seconds
+Testing time: 0.012 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 697.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 69.700%
+Training time: 4.531 seconds
+Testing time: 0.006 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 700.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 70.000%
+Training time: 157.126 seconds
+Testing time: 0.010 seconds
+
+
+Results for RHC: with iterations 500 
+Correctly classified 703.0 instances.
+Incorrectly classified 297.0 instances.
+Percent correctly classified: 70.300%
+Training time: 5.695 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 670.0 instances.
+Incorrectly classified 330.0 instances.
+Percent correctly classified: 67.000%
+Training time: 4.284 seconds
+Testing time: 0.006 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 699.0 instances.
+Incorrectly classified 301.0 instances.
+Percent correctly classified: 69.900%
+Training time: 158.000 seconds
+Testing time: 0.012 seconds
+
+
+Error results for RHC
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 703.0 instances.
+Incorrectly classified 297.0 instances.
+Percent correctly classified: 70.300%
+Training time: 5.901 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 637.0 instances.
+Incorrectly classified 363.0 instances.
+Percent correctly classified: 63.700%
+Training time: 4.152 seconds
+Testing time: 0.011 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 700.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 70.000%
+Training time: 159.043 seconds
+Testing time: 0.007 seconds
+
+
+Error results for SA
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 697.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 69.700%
+Training time: 5.864 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 685.0 instances.
+Incorrectly classified 315.0 instances.
+Percent correctly classified: 68.500%
+Training time: 4.812 seconds
+Testing time: 0.010 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 697.0 instances.
+Incorrectly classified 303.0 instances.
+Percent correctly classified: 69.700%
+Training time: 160.611 seconds
+Testing time: 0.011 seconds
+
+
+Results for RHC: with iterations 500 
+Correctly classified 698.0 instances.
+Incorrectly classified 302.0 instances.
+Percent correctly classified: 69.800%
+Training time: 5.518 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 541.0 instances.
+Incorrectly classified 459.0 instances.
+Percent correctly classified: 54.100%
+Training time: 4.963 seconds
+Testing time: 0.010 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 700.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 70.000%
+Training time: 161.093 seconds
+Testing time: 0.022 seconds
+
+
+Error results for SA
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 696.0 instances.
+Incorrectly classified 304.0 instances.
+Percent correctly classified: 69.600%
+Training time: 5.225 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 683.0 instances.
+Incorrectly classified 317.0 instances.
+Percent correctly classified: 68.300%
+Training time: 4.924 seconds
+Testing time: 0.010 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 700.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 70.000%
+Training time: 164.471 seconds
+Testing time: 0.011 seconds
+
+
+Error results for GA
+---------------------------
+
+Error results for GA
+---------------------------
+
+Results for RHC: with iterations 500 
+Correctly classified 703.0 instances.
+Incorrectly classified 297.0 instances.
+Percent correctly classified: 70.300%
+Training time: 5.600 seconds
+Testing time: 0.010 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 700.0 instances.
+Incorrectly classified 300.0 instances.
+Percent correctly classified: 70.000%
+Training time: 4.876 seconds
+Testing time: 0.011 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 699.0 instances.
+Incorrectly classified 301.0 instances.
+Percent correctly classified: 69.900%
+Training time: 156.656 seconds
+Testing time: 0.010 seconds
+
+
+Results for RHC: with iterations 500 
+Correctly classified 701.0 instances.
+Incorrectly classified 299.0 instances.
+Percent correctly classified: 70.100%
+Training time: 5.393 seconds
+Testing time: 0.011 seconds
+
+Results for SA: with iterations 500 
+Correctly classified 366.0 instances.
+Incorrectly classified 634.0 instances.
+Percent correctly classified: 36.600%
+Training time: 4.609 seconds
+Testing time: 0.007 seconds
+
+Results for GA: with iterations 500 
+Correctly classified 696.0 instances.
+Incorrectly classified 304.0 instances.
+Percent correctly classified: 69.600%
+Training time: 165.627 seconds
+Testing time: 0.012 seconds
+
